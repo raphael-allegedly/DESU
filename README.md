@@ -1,6 +1,6 @@
 Hello
 
-Le fichier aides.py contient quelques fonctions utilisées par le code du notebook NACC_Alzheiemr.ipynb
+Le fichier aides.py contient quelques fonctions utilisées par le code du notebook NACC_Alzheimer.ipynb
 
 Je me pose la question du partage du dataset qui contient des données patients même si anonymisées
 Le deposer sur un github ouvert semble mal avisé. 
